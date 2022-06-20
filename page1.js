@@ -33,3 +33,8 @@ function isEven(number) {
   
   add(10, 20)
 
+  function divide(p1, p2) {
+    console.log(`${p1} / ${p2} = ${p1 / p2}`)
+  }
+  
+  divide(10, 4)
